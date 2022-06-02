@@ -1,5 +1,1 @@
-streamlit
-datetime
-yfinance
-fbprophet
-plotly
+install streamlit fbprophet yfinance plotly
