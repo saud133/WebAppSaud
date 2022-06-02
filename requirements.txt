@@ -1,1 +1,132 @@
-streamlit fbprophet yfinance plotly
+altair==4.2.0
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1652758927346/work
+asttokens==2.0.5
+attrs==21.4.0
+backcall==0.2.0
+backports.zoneinfo==0.2.1
+backtrader==1.9.76.123
+beautifulsoup4==4.11.1
+bleach==5.0.0
+blinker==1.4
+cachetools==5.2.0
+certifi==2022.5.18.1
+cffi==1.15.0
+cftime @ file:///D:/bld/cftime_1649637018572/work
+charset-normalizer==2.0.12
+click==8.0.4
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+convertdate @ file:///home/conda/feedstock_root/build_artifacts/convertdate_1642883757836/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+Cython @ file:///D:/bld/cython_1652809489822/work
+debugpy==1.6.0
+decorator==5.1.1
+defusedxml==0.7.1
+entrypoints==0.4
+ephem @ file:///C:/ci/ephem_1638960435565/work
+executing==0.8.3
+fastjsonschema==2.15.3
+fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
+fonttools @ file:///D:/bld/fonttools_1651018082455/work
+gitdb==4.0.9
+GitPython==3.1.27
+hijri-converter @ file:///home/conda/feedstock_root/build_artifacts/hijri-converter_1653348285237/work
+holidays @ file:///home/conda/feedstock_root/build_artifacts/holidays_1644933126202/work
+idna==3.3
+importlib-metadata @ file:///D:/bld/importlib-metadata_1653252985644/work
+importlib-resources==5.7.1
+ipykernel==6.13.0
+ipython==8.4.0
+ipython-genutils==0.2.0
+ipywidgets==7.7.0
+jedi==0.18.1
+Jinja2==3.1.2
+joblib==1.1.0
+jsonschema==4.6.0
+jupyter-client==7.3.1
+jupyter-core==4.10.0
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==1.1.0
+kiwisolver @ file:///D:/bld/kiwisolver_1648854542949/work
+korean-lunar-calendar @ file:///home/conda/feedstock_root/build_artifacts/korean_lunar_calendar_1589354365811/work
+LunarCalendar==0.0.9
+lxml==4.9.0
+MarkupSafe==2.1.1
+matplotlib @ file:///D:/bld/matplotlib-suite_1651609674242/work
+matplotlib-inline==0.1.3
+mistune==0.8.4
+multitasking==0.0.10
+munkres==1.1.4
+nbclient==0.6.4
+nbconvert==6.5.0
+nbformat==5.4.0
+nest-asyncio==1.5.5
+netCDF4 @ file:///D:/bld/netcdf4_1636303174001/work
+notebook==6.4.11
+numpy @ file:///D:/bld/numpy_1653325737787/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas @ file:///D:/bld/pandas_1653497235917/work
+pandocfilters==1.5.0
+parso==0.8.3
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1652815236940/work
+plotly==5.8.0
+prometheus-client==0.14.1
+prompt-toolkit==3.0.29
+protobuf==3.20.1
+psutil==5.9.1
+pure-eval==0.2.2
+pyarrow==8.0.0
+pycparser==2.21
+pydeck==0.7.1
+Pygments==2.12.0
+PyMeeus @ file:///home/conda/feedstock_root/build_artifacts/pymeeus_1615809745702/work
+Pympler==1.0.1
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+PyQt5==5.15.4
+PyQt5-sip @ file:///D:/bld/pyqt-split_1652284189553/work/pyqt_sip
+pyrsistent==0.18.1
+pystan==2.19.1.1
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1647961439546/work
+pytz-deprecation-shim==0.1.0.post0
+pywin32==304
+pywinpty==2.0.5
+pyzmq==23.1.0
+requests==2.27.1
+scikit-learn==1.1.1
+scipy @ file:///C:/bld/scipy_1653074070936/work
+semver==2.13.0
+Send2Trash==1.8.0
+sip @ file:///D:/bld/sip_1646101435979/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smmap==5.0.0
+soupsieve==2.3.2.post1
+stack-data==0.2.0
+streamlit==1.9.2
+TA-Lib @ file:///D:/bld/ta-lib_1637267093594/work
+tenacity==8.0.1
+terminado==0.15.0
+threadpoolctl==3.1.0
+tinycss2==1.1.1
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+toolz==0.11.2
+tornado @ file:///D:/bld/tornado_1648827448708/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1649051611147/work
+traitlets==5.2.2.post1
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
+tzdata==2022.1
+tzlocal==4.2
+unicodedata2 @ file:///D:/bld/unicodedata2_1649112097357/work
+urllib3==1.26.9
+validators==0.19.0
+watchdog==2.1.8
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.6.0
+wincertstore==0.2
+xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1646254587173/work
+xarray-einstats @ file:///home/conda/feedstock_root/build_artifacts/xarray-einstats_1648967091347/work
+yfinance==0.1.70
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work
